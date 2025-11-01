@@ -13,6 +13,6 @@
 - `Machine-Learning-UTS-IlhamNovriadi.ipynb`: Notebook utama (EDA, modeling, evaluasi).
 - `Hasil-Pembahasan.md`: Rangkuman hasil dan pembahasan lengkap.
 - `Dataset-Info.md`: Deskripsi detail dataset dan fitur.
-- `Laporan-Machine-Learning-UTS-IlhamNovriadi.pdf`: Laporan ringkas dalam format PDF.
+- `Laporan Machine Learning - Ilham Novriadi.pdf`: Laporan ringkas dalam format PDF.
 - `data/bank_marketing.csv`: Dataset yang digunakan.
 - `UTS_Machine_Learning.zip`: Paket arsip proyek.
